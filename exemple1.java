@@ -1,5 +1,5 @@
 /**
- * @author jonh_doe
+ * @author john_doe
  */
 @Service(AdhesionService.SID)
 @Scope(BeanDefinition.SCOPE_SINGLETON)
